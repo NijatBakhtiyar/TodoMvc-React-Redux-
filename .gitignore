@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+
+src/reducer/AddItem.jsx
+src/reducer/MainRedux.jsx
+src/reducer/ReadItems.jsx
